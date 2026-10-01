@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
                                 )
                         Business(
                             text="Phone Number: +1 (123) 456-6780",
-                            size=21
+                            size=25
                         )
 
                     }
